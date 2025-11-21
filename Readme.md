@@ -16,3 +16,19 @@ NLP & CV
 Data Science
 
 Power BI
+
+
+
+# Linkedin:
+
+in/bhanuagg
+
+
+# Facebook:
+
+profile.php?id=100015810542592
+
+
+# Instagram:
+
+bhanu_aggarwal_0211
