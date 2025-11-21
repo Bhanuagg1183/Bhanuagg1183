@@ -1,8 +1,5 @@
 # Machine Learning Engineer
 
-
-Machine Learning Engineer
-
 🧠Building Intelligent Systems
 
 🛠️Automating Dashboards
@@ -16,8 +13,6 @@ NLP & CV
 Data Science
 
 Power BI
-
-
 
 # Connect with me:
 ### Linkedin:
