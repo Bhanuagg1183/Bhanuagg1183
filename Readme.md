@@ -19,16 +19,12 @@ Power BI
 
 
 
-# Linkedin:
-
+# Connect with me:
+### Linkedin:
 in/bhanuagg
 
-
-# Facebook:
-
+### Facebook:
 profile.php?id=100015810542592
 
-
-# Instagram:
-
+### Instagram:
 bhanu_aggarwal_0211
