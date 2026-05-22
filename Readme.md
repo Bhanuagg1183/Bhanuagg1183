@@ -1,5 +1,5 @@
 # Bhanu Aggarwal
-### Machine Learning Engineer
+## Machine Learning Engineer
 
 🧠Building Intelligent Systems
 
@@ -15,7 +15,8 @@ Data Science
 
 Power BI
 
-# Connect with me:
+## Connect with me:
+
 ### Linkedin:
 in/bhanuagg
 
@@ -24,3 +25,9 @@ profile.php?id=100015810542592
 
 ### Instagram:
 bhanu_aggarwal_0211
+
+### Github:
+github.com/Bhanuagg1183
+
+### Netlify:
+app.netlify.com/teams/bhanuagg1183/projects
