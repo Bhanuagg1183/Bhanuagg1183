@@ -17,17 +17,12 @@ Power BI
 
 ## Connect with me:
 
-### Linkedin:
-in/bhanuagg
+**Linkedin:**   in/bhanuagg
 
-### Facebook:
-profile.php?id=100015810542592
+**Github:**   github.com/Bhanuagg1183
 
-### Instagram:
-bhanu_aggarwal_0211
+**Netlify:**   app.netlify.com/teams/bhanuagg1183/projects
 
-### Github:
-github.com/Bhanuagg1183
+**Facebook:**   profile.php?id=100015810542592
 
-### Netlify:
-app.netlify.com/teams/bhanuagg1183/projects
+**Instagram:**   bhanu_aggarwal_0211
