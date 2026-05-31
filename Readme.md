@@ -1,19 +1,19 @@
 # Bhanu Aggarwal
 ## Machine Learning Engineer
 
-🧠Building Intelligent Systems
+#### 🧠Building Intelligent Systems
 
-🛠️Automating Dashboards
+#### 🛠️Automating Dashboards
 
-🤖AI/ML
+#### 🤖AI/ML
 
-Deep Learning
+#### Deep Learning
 
-NLP & CV
+#### NLP & CV
 
-Data Science
+#### Data Science
 
-Power BI
+#### Power BI
 
 ## Connect with me:
 
