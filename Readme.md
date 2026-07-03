@@ -8,9 +8,9 @@
 
 #### 🤖AI/ML
 
-#### Deep Learning
-
 #### NLP & CV
+
+#### Deep Learning
 
 #### Data Science
 
