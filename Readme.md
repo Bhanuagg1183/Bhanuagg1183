@@ -6,7 +6,7 @@
 
 #### 🛠️Automating Dashboards
 
-#### 🤖AI/ML
+#### 🤖 ARTIFICIAL INTELLIGENCE / MACHINE LEARNING
 
 #### NLP & CV
 
