@@ -2,7 +2,7 @@
 
 ## Machine Learning Engineer
 
-#### 🤖 ARTIFICIAL INTELLIGENCE / MACHINE LEARNING
+#### 🤖 Artificial Intelligence / Machine Learning
 
 #### 🧠Building Intelligent Systems
 
