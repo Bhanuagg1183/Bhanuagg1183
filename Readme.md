@@ -19,6 +19,8 @@
 
 ## Connect with me:
 
+**Mail:**   bhanuagg1183@gmail.com
+
 **Linkedin:**   linkedin.com/in/bhanuagg/
 
 **Github:**   github.com/Bhanuagg1183
