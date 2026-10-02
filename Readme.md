@@ -8,13 +8,13 @@
 
 #### 🛠️Automating Dashboards
 
-#### NLP & CV
+<!-- #### NLP & CV
 
 #### Deep Learning
 
 #### Data Science
 
-#### Power BI
+#### Power BI -->
 
 
 ## Education:
@@ -26,6 +26,7 @@
 **Kurukshetra University, Kurukshetra**
 
 **CGPA - 8.05 / 10**
+
 
 ## Connect with me:
 
