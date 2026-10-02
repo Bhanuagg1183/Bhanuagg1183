@@ -1,12 +1,12 @@
-# Bhanu Aggarwal
+# **Bhanu Aggarwal**    
 
 ## Machine Learning Engineer
 
-#### 🤖 Artificial Intelligence / Machine Learning
+- #### 🤖 Artificial Intelligence / Machine Learning
 
-#### 🧠Building Intelligent Systems
+- #### 🧠Building Intelligent Systems
 
-#### 🛠️Automating Dashboards
+- #### 🛠️Automating Dashboards
 
 <!-- #### NLP & CV
 
@@ -21,21 +21,21 @@
 
 ### B.Tech. Computer Science (2018-2022)   
 
-**CGPA - 8.05 / 10**
+- **CGPA - 8.05 / 10**
 
-**University Institute of Engineering And Technology, Kurukshetra University, Kurukshetra**
+- **University Institute of Engineering And Technology, Kurukshetra University, Kurukshetra**
 
 
 ## Connect with me:
 
-**Mail:**   bhanuagg1183@gmail.com
+- **Mail:**   bhanuagg1183@gmail.com
 
-**Linkedin:**   linkedin.com/in/bhanuagg/
+- **Linkedin:**   linkedin.com/in/bhanuagg/
 
-**Github:**   github.com/Bhanuagg1183
+- **Github:**   github.com/Bhanuagg1183
 
-**Netlify:**   app.netlify.com/teams/bhanuagg1183/projects
+- **Netlify:**   app.netlify.com/teams/bhanuagg1183/projects
 
-**Facebook:**   profile.php?id=100015810542592
+- **Facebook:**   profile.php?id=100015810542592
 
-**Instagram:**   bhanu_aggarwal_0211
+- **Instagram:**   bhanu_aggarwal_0211
