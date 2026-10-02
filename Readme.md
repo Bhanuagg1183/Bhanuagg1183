@@ -19,13 +19,11 @@
 
 ## Education:
 
-#### B.Tech. Computer Science (2018-2022)
-
-**University Institute of Engineering And Technology**
-
-**Kurukshetra University, Kurukshetra**
+### B.Tech. Computer Science (2018-2022)   
 
 **CGPA - 8.05 / 10**
+
+**University Institute of Engineering And Technology, Kurukshetra University, Kurukshetra**
 
 
 ## Connect with me:
