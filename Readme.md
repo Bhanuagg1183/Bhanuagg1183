@@ -2,11 +2,11 @@
 
 ## Machine Learning Engineer
 
-### 🤖 Artificial Intelligence / Machine Learning
+#### 🤖 Artificial Intelligence / Machine Learning
 
-### 🧠Building Intelligent Systems
+#### 🧠Building Intelligent Systems
 
-### 🛠️Automating Dashboards
+#### 🛠️Automating Dashboards
 
 <!-- #### NLP & CV
 
