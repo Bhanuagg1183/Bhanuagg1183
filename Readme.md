@@ -17,6 +17,16 @@
 #### Power BI
 
 
+## Education:
+
+#### B.Tech. Computer Science (2018-2022)
+
+**University Institute of Engineering And Technology**
+
+**Kurukshetra University, Kurukshetra**
+
+**CGPA - 8.05 / 10**
+
 ## Connect with me:
 
 **Mail:**   bhanuagg1183@gmail.com
