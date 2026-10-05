@@ -17,7 +17,16 @@
 #### Power BI -->
 
 
-## Education:
+## 🏆 Highlights:
+
+ - **Certified AI–ML Engineer Trainee (Haryana Government Training Program)**
+
+ - **3x Gold Medalist – International Mathematics Olympiad**
+
+ - **Developed solutions that cut manual effort by 60% and reduced production costs by 20% through AI-driven process automation**
+
+
+## 🎯 Education:
 
 ### B.Tech. Computer Science (2018-2022)   
 
@@ -26,7 +35,7 @@
 - **University Institute of Engineering And Technology, Kurukshetra University, Kurukshetra**
 
 
-## Connect with me:
+## 🚀Connect with me:
 
 - **Mail:**   bhanuagg1183@gmail.com
 
