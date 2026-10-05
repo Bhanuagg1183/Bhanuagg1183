@@ -23,7 +23,7 @@
 
  - **3x Gold Medalist – International Mathematics Olympiad**
 
- - **Developed solutions that cut manual effort by 60% and reduced production costs by 20% through AI-driven process automation**
+ <!-- - **Developed solutions that cut manual effort by 60% and reduced production costs by 20% through AI-driven process automation** -->
 
 
 ## 🎯 Education:
