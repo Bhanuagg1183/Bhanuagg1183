@@ -41,9 +41,9 @@
 
 - **Linkedin:**   linkedin.com/in/bhanuagg/
 
-- **Github:**   github.com/Bhanuagg1183
+<!-- - **Github:**   github.com/Bhanuagg1183
 
-- **Netlify:**   app.netlify.com/teams/bhanuagg1183/projects
+- **Netlify:**   app.netlify.com/teams/bhanuagg1183/projects -->
 
 - **Facebook:**   profile.php?id=100015810542592
 
