@@ -30,8 +30,8 @@
 
 ### B.Tech. Computer Science (2018-2022)   
 
-- **CGPA - 8.05 / 10**
-
+- **CGPA - 8.05/10**
+  **(80.5%)**
 - **University Institute of Engineering And Technology, Kurukshetra University, Kurukshetra**
 
 
@@ -39,12 +39,11 @@
 
 - **Mail:**   bhanuagg1183@gmail.com
 
-- **Linkedin:**   linkedin.com/in/bhanuagg/
-
-<!-- - **Github:**   github.com/Bhanuagg1183
-
-- **Netlify:**   app.netlify.com/teams/bhanuagg1183/projects -->
+- **Linkedin:**   linkedin.com/in/bhanuagg
 
 - **Facebook:**   profile.php?id=100015810542592
 
 - **Instagram:**   bhanu_aggarwal_0211
+
+<!-- - **Github:**   github.com/Bhanuagg1183
+- **Netlify:**   app.netlify.com/teams/bhanuagg1183/projects -->
