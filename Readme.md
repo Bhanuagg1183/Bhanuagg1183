@@ -1,9 +1,13 @@
 # **Bhanu Aggarwal**    
+<img align="right" width="253" height="354" alt="Photo Blue Suit" src="https://github.com/user-attachments/assets/1b15d87c-d1fa-4abd-96d1-60184c7a5c93" />
+
 ## Machine Learning Engineer
 - #### 🧠Building Intelligent Systems
 - #### 🛠️Automating Dashboards
 - #### 🤖 Artificial Intelligence / Machine Learning
-<!-- #### NLP & CV
+<!-- 
+<img align="right" width="253" height="354" alt="Photo Blue Suit" src="https://github.com/user-attachments/assets/1b15d87c-d1fa-4abd-96d1-60184c7a5c93" />
+ #### NLP & CV
 #### Neural Networks
 #### Deep Learning
 #### Data Science
