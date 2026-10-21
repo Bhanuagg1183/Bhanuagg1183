@@ -1,4 +1,4 @@
-<img align="right" width="253" height="354" alt="Photo Blue Suit" src="https://github.com/user-attachments/assets/1b15d87c-d1fa-4abd-96d1-60184c7a5c93" />
+<img align="right" width="250" height="320" alt="Photo" src="https://github.com/user-attachments/assets/1b15d87c-d1fa-4abd-96d1-60184c7a5c93" />
 
 # **Bhanu Aggarwal**   
 ## 💻 Machine Learning Engineer
