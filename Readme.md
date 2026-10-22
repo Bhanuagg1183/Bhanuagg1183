@@ -1,4 +1,4 @@
-<img align="right" width="300" height="400" alt="Photo" src="https://github.com/user-attachments/assets/1b15d87c-d1fa-4abd-96d1-60184c7a5c93" />
+<img align="right" width="400" height="500" alt="Photo" src="https://github.com/user-attachments/assets/1b15d87c-d1fa-4abd-96d1-60184c7a5c93" />
 
 # **Bhanu Aggarwal**   
 ℹ️ bhanuagg     📧 bhanuagg1183@gmail.com
