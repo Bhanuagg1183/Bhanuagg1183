@@ -1,6 +1,7 @@
-<img align="right" width="250" height="320" alt="Photo" src="https://github.com/user-attachments/assets/1b15d87c-d1fa-4abd-96d1-60184c7a5c93" />
+<img align="right" width="300" height="400" alt="Photo" src="https://github.com/user-attachments/assets/1b15d87c-d1fa-4abd-96d1-60184c7a5c93" />
 
 # **Bhanu Aggarwal**   
+ℹ️ bhanuagg     📧 bhanuagg1183@gmail.com
 ## 💻 Machine Learning Engineer
 - #### 🧠 Building Intelligent Systems
 - #### 🤖 Artificial Intelligence / Machine Learning
@@ -8,6 +9,7 @@
 - #### 📊 Transforming Data into Insights
 <!-- 
 <img align="right" width="253" height="354" alt="Photo Blue Suit" src="https://github.com/user-attachments/assets/1b15d87c-d1fa-4abd-96d1-60184c7a5c93" />
+<img align="right" width="250" height="320" alt="Photo" src="https://github.com/user-attachments/assets/1b15d87c-d1fa-4abd-96d1-60184c7a5c93" />
  #### NLP & CV
 #### Neural Networks
 #### Deep Learning
@@ -25,8 +27,12 @@
 - **University Institute of Engineering And Technology, Kurukshetra University, Kurukshetra**
 
 ## 🔗 Connect with me:
-- **Mail:**   bhanuagg1183@gmail.com
-- **Linkedin:**   linkedin.com/in/bhanuagg
 - **Facebook:**   profile.php?id=100015810542592
 - **Instagram:**   bhanu_aggarwal_0211
-<!-- - **Github:**   github.com/Bhanuagg1183      - **Netlify:**   app.netlify.com/teams/bhanuagg1183/projects -->
+<!-- 
+- **Mail:**   bhanuagg1183@gmail.com
+- **Linkedin:**   linkedin.com/in/bhanuagg
+- **Github:**   github.com/Bhanuagg1183   
+- **YouTube:**    youtube.com/@bhanuaggarwal6774   
+- **Netlify:**   app.netlify.com/teams/bhanuagg1183/projects 
+-->
